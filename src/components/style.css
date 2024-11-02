@@ -1,0 +1,31 @@
+/* Center the dashboard and set some padding */
+.weather-container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  /* Style for the weather card */
+  .weather-card {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style the search container */
+  .search-container h2 {
+    font-weight: 600;
+    color: #007bff;
+  }
+  
+  /* Ensure input and buttons align well */
+  .form-control {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .btn {
+    font-weight: bold;
+  }
+  
